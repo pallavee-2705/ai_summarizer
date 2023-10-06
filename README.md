@@ -2,10 +2,15 @@
 
 Summize is an open-source article summarizer that simplifies reading by transforming lengthy articles into clear and concise summaries. It uses the power of OpenAI GPT-4 to generate these summaries.
 
-## Getting Started
 
-Follow these steps to set up and run Summize on your local machine.
+## Technologies Used
 
+- React
+- Redux Toolkit Query
+- RapidAPI
+- HTML/CSS
+- JavaScript
+  
 ### Prerequisites
 
 - Node.js and npm installed.
