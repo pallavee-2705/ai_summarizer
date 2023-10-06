@@ -13,20 +13,6 @@ With Summize, you can:
 
 Discover the joy of instant knowledge absorption with Summize!
 
-## Getting Started
-
-Follow these steps to set up and experience Summize's magic on your local machine.
-
-### Prerequisites
-
-- Node.js and npm installed.
-
-### Installation
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/YourUsername/Summize.git
 
 ## Technologies Used
 
