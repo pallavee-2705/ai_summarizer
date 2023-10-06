@@ -26,7 +26,7 @@ Discover the joy of instant knowledge absorption with Summize!
 
 - Node.js and npm installed.
 
-## To run the project start the development server:
+## To run the project execute:
 
 npm run dev
 
