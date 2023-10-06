@@ -11,11 +11,11 @@ Summize is an open-source article summarizer that simplifies reading by transfor
 - HTML/CSS
 - JavaScript
   
-### Prerequisites
+## Prerequisites
 
 - Node.js and npm installed.
 
-### To run the project start the development server:
+## To run the project start the development server:
 
 npm run dev
 
