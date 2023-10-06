@@ -12,9 +12,9 @@ Follow these steps to set up and run Summize on your local machine.
 
 ### To run the project start the development server:
 
-#### npm run dev
+npm run dev
 
-Open your browser and access the application at http://localhost:3000
+
 ## Credits
 
 Special thanks to [Adrian Hajdin](https://github.com/adrianhajdin) for their valuable work on the [project_ai_summarizer](https://github.com/adrianhajdin/project_ai_summarizer) repository, which served as a source of inspiration and reference for creating this project.
