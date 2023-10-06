@@ -26,7 +26,7 @@ Discover the joy of instant knowledge absorption with Summize!
 
 - Node.js and npm installed.
 
-## To run the project execute:
+## Run scripts:
 
 npm run dev
 
