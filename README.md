@@ -10,16 +10,9 @@ Follow these steps to set up and run Summize on your local machine.
 
 - Node.js and npm installed.
 
-### Installation
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/pallavee-2705/ai_summarizer.git
-
 ### To run the project start the development server:
 
-## npm run dev
+#### npm run dev
 
 Open your browser and access the application at http://localhost:3000
 ## Credits
