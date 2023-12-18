@@ -13,6 +13,9 @@ With Summize, you can:
 
 Discover the joy of instant knowledge absorption with Summize!
 
+### Visit the live deployment at:
+https://ai-summarizer-taupe.vercel.app/
+
 
 ## Technologies Used
 
